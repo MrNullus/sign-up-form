@@ -22,7 +22,7 @@ body{
     color: white;
     display: flex;
     min-height: 100vh;
-    min-width: 100vh;
+/*     min-width: 100vh; */
     font-weight: 500;
 }
 
